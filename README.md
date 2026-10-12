@@ -14,4 +14,6 @@
   <img src="https://img.shields.io/badge/CMake-Build-orange?logo=cmake" alt="CMake">
 </p><br><br><br><br>
 
-## dwpass-core - A Diceware Passphrase Generator Core.
+## 🎲 dwpass-core - A Diceware Passphrase Generator Core.
+
+The core of a high-performance, security-focused command-line interface (CLI) tool for generating passphrases using the Diceware method. The project combines the convenience of terminal-based automation with the rigor of physical entropy and operating system cryptographic sources.
