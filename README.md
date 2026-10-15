@@ -38,22 +38,7 @@ A high-performance, security-focused command-line interface (Core) tool for gene
 ## Project Structure:
 
 ```text
-dwpass-core/                                                          
-├── assets/
-│   └── logo/                           
-│
-├── program/                            # dwpass-core program File.
-│   ├── include/                        # Program Include Directory.
-│   │   └── core/                        # core Include Directory.
-│   │
-│   └── src/                            # program src Directory.
-│       └── core/                        # core src Directory.
-│           └── command_table/          # Program Command Table. 
-│
-├── CMakeLists.txt                      # Project Root CMakeLists.txt
-├── LICENSE                             # Project License.
-└── README.md                           # Technical Documentation.
-
+dwpass-core/                                                                                   
 ├── assets/                             # Project Assets File.
 │   ├── logo/                           # Project Logo File.
 │   │
@@ -69,18 +54,18 @@ dwpass-core/
 │   │
 │   └── src/                            # Program Code Directory.
 │       ├── command/                    # Program Command Code Directory.
-│       │   ├── export
-│       │   ├── help
-│       │   ├── logo
-│       │   ├── system
-│       │   └── version
+│       │   ├── export/
+│       │   ├── help/
+│       │   ├── logo/
+│       │   ├── system/
+│       │   └── version/
 │       │
-│       └── logic
-│           ├── compare
-│           └── generator
+│       └── logic/
+│           ├── compare/
+│           └── generator/
 |
-├── LICENSE
-└── README.md
+├── LICENSE                             # Project License.
+└── README.md                           # Project Technical Documentation.
 ```
 
 <br><br><br><br><br>
