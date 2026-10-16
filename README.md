@@ -54,15 +54,15 @@ dwpass-core/
 │   │
 │   └── src/                            # Program Code Directory.
 │       ├── command/                    # Program Command Code Directory.
-│       │   ├── export/
-│       │   ├── help/
-│       │   ├── logo/
-│       │   ├── system/
-│       │   └── version/
+│       │   ├── export/                 # Commmand Export Logic File. 
+│       │   ├── help/                   # Commmand Help Logic File.
+│       │   ├── logo/                   # Commmand Logo Logic File.
+│       │   ├── system/                 # Commmand System Logic File.
+│       │   └── version/                # Commmand Version Logic File.
 │       │
 │       └── logic/
-│           ├── compare/
-│           └── generator/
+│           ├── compare/                # Compare Logic File.
+│           └── generator/              # Dice Generator Logic File.
 |
 ├── LICENSE                             # Project License.
 └── README.md                           # Project Technical Documentation.
