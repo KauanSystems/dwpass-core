@@ -30,8 +30,8 @@ A high-performance, security-focused command-line interface (Core) tool for gene
 
 <br>
 
-> [!TIP]
-> dwpass-core.
+> [!IMPORTANT]
+> Please note: this repository is responsible for housing the program's core. It is intended to eventually serve as a foundation for separating the program into a version with a graphical user interface (GUI) and a version with a command-line interface (CLI).
 
 <br>
 
