@@ -70,11 +70,11 @@ dwpass-core/
 
 <br><br>
 
-<div align="center">
-
 ## Supported Operating Systems
 
 <br>
+
+<div align="center">
 
 | Operating System | Status |
 | :---: | :---: |
